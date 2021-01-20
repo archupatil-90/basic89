@@ -135,24 +135,16 @@ margin-right: 0;
     
 }
  .right{
-    width:600px;
+    width:69%;
     margin-left: 20px;
     height: 150px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 
    
 }
- .rbottom{
-    position: relative;
-    top: -160px;
-    left: 195px;
-    width:600px;
-    margin-left: 20px;
-    height: 150px;
-    margin-bottom: 20px;
-}
+ 
  .category{
-    width:300px;
+    width:30%;
     margin-bottom: 20px;
     margin-bottom: 20px;
 } 
